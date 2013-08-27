@@ -1,2 +1,1 @@
-Website for Dosa Diner
-<a href="http://my-dosa-site.herokuapp.com">Link</a>
+<a href="http://my-dosa-site.herokuapp.com">My practice website for Dosa Diner</a>
